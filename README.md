@@ -1,2 +1,3 @@
-titanium_baidu_push
+Titanium Baidu Push Plugin
 ===================
+

@@ -1,0 +1,5 @@
+android/tmp
+android/bin
+android/build
+*.zip
+.apt_generated
